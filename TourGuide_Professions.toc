@@ -1,6 +1,6 @@
 ## Interface: 11200
 
-## Title: TourGuide (Professions)
+## Title: TourGuide_Professions
 ## Notes: Professions guides for 1-300
 ## Author: cralor
 ## Version: Alpha
