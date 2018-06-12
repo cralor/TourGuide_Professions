@@ -6,7 +6,7 @@
 ## Version: Alpha
 ## X-Category: Professions
 
-## RequiredDeps: TourGuide
+## RequiredDeps: TourGuideVanilla
 ## OptionalDeps: Dongle, TomTom
 
 ## DefaultState: disabled
