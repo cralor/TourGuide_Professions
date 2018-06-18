@@ -4,7 +4,7 @@ C Alchemy |N|Aprx. Mats Required: 60x Peacebloom, 60x Silverleaf, 75x Empty Vial
 
 N [1-60] 60x Minor Healing Potions |N|(1x Peacebloom, 1x Silverleaf, 1x Empty Vial)|
 N [60-110] 50x Lesser Healing Potions |N|(1x Minor Healing Potion, 1x Briarthorn)|
-N [110-14] 30x Healing Potion |N|(1x Bruiseweed, 1x Briarthorn, 1x Leaded Vial)|
+N [110-140] 30x Healing Potion |N|(1x Bruiseweed, 1x Briarthorn, 1x Leaded Vial)|
 N [140-155] 15x Lesser Mana Potion |N|(1x Mageroyal, 1x Stranglekelp, 1x Empty Vial)|
 N [155-185] 30x Greater Healing Potions |N|(1x Liferoot, 1x Kingsblood, 1x Leaded Vial)|
 N [185-210] 25x Elixir of Agility |N|(1x Stranglekelp, 1x Goldthorn, 1x Leaded Vial)|
